@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayCore-HW2", "PayCore-HW2\PayCore-HW2.csproj", "{63BA4A69-24C7-4AEA-8593-9CA14CFA605B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BA4A69-24C7-4AEA-8593-9CA14CFA605B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BA4A69-24C7-4AEA-8593-9CA14CFA605B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BA4A69-24C7-4AEA-8593-9CA14CFA605B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BA4A69-24C7-4AEA-8593-9CA14CFA605B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98B20EE7-4224-410A-94AE-0CB3953C1173}
+	EndGlobalSection
+EndGlobal
